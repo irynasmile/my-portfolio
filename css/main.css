@@ -117,7 +117,7 @@ body {
   max-width: 540px;
   max-height: 375px;
   background-color: #fff;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
   transition: transform 0.2s ease-in;
 }
